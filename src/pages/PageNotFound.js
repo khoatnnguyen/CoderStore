@@ -5,7 +5,7 @@ function PageNotFound() {
   return (
     <Container sx={{ display: "flex", height: "100%", alignItems: "center" }}>
       <Box sx={{ maxWidth: 480, margin: "auto", textAlign: "center" }}>
-        <Typography variant="h4" paragraph>
+        <Typography variant="h4" comment>
           Page not found!
         </Typography>
         <Typography sx={{ color: "text.secondary", mb: "1rem" }}>
